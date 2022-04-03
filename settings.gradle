@@ -1,0 +1,8 @@
+include ':libfreetype'
+include ':libpng'
+include ':libzlib'
+include ':libtiff'
+include ':libjpeg'
+include ':roaming'
+include ':app'
+rootProject.name = "Roaming2"
